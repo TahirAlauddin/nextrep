@@ -4,6 +4,7 @@ import { Button } from "@/components/ui/button";
 export default function LoginPage() {
   return (
 
+
     <div className="min-h-screen flex items-center justify-center bg-gray-100">
       <div className="max-w-md w-full space-y-8 p-8 bg-white rounded-xl shadow-lg">
         <div className="text-center">
