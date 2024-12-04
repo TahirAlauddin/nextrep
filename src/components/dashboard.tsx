@@ -40,9 +40,6 @@ export function Dashboard() {
           </div>
         </main>
       </div>
-      <footer className="text-center py-4 text-sm text-gray-500 border-t mt-8 md:mt-0">
-        © 2024 NextRep LLC. All rights reserved.
-      </footer>
     </div>
   )
 }
